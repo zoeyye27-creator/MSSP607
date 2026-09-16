@@ -2,7 +2,7 @@ from pathlib import Path
 from git import Repo
 
 # Repository root
-repo_path = Path("/workspaces/Test")
+repo_path = Path("/workspaces/MSSP607")
 
 # Open existing Git repository
 repo = Repo(repo_path)
